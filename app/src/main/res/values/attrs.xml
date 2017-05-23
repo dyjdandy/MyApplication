@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomTextView">
+        <attr name="textContent" format="string" />
+        <attr name="textSize1" format="dimension" />
+        <attr name="textColor1" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="ImgAndText">
+        <attr name="imgTextSize" format="dimension"/>
+        <attr name="imgTextColor" format="color"/>
+        <attr name="imgTextContent" format="string"/>
+        <attr name="imgId" format="reference"/>
+        <attr name="imgType">
+            <enum name="fitXY" value="0"/>
+            <enum name="centerCrop" value="1"/>
+        </attr>
+    </declare-styleable>
+    
+    <declare-styleable name="DoubleCircle">
+        <attr name="firstColor" format="color"/>
+        <attr name="secondColor" format="color"/>
+        <attr name="circleWidth" format="dimension"/>
+        <attr name="speed" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="ProgressControlBar">
+        <attr name="fColor1" format="color"/>
+        <attr name="sColor1" format="color"/>
+        <attr name="cWidth" format="dimension"/>
+        <attr name="bg" format="reference"/>
+        <attr name="barCount" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="VoteTextView">
+        <attr name="fColor" format="color"/>
+        <attr name="sColor" format="color"/>
+        <attr name="text" format="string"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+        <attr name="progress" format="integer"/>
+    </declare-styleable>
+</resources>

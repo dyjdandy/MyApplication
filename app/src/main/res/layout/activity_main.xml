@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--<views.DragViewGroup-->
+    <!--android:layout_width="300dp"-->
+    <!--android:layout_height="100dp"-->
+    <!--android:background="#ff00">-->
+    <!--<TextView-->
+    <!--android:layout_width="20dp"-->
+    <!--android:layout_height="20dp"-->
+    <!--android:layout_marginTop="10dp"-->
+    <!--android:layout_marginLeft="50dp"-->
+    <!--android:background="@color/colorPrimary"/>-->
+    <!--<TextView-->
+    <!--android:layout_width="50dp"-->
+    <!--android:layout_height="10dp"-->
+    <!--android:layout_marginTop="40dp"-->
+    <!--android:background="@color/colorPrimary"/>-->
+    <!--<TextView-->
+    <!--android:layout_width="20dp"-->
+    <!--android:layout_height="20dp"-->
+    <!--android:layout_marginTop="50dp"-->
+    <!--android:layout_marginLeft="100dp"-->
+    <!--android:background="@color/colorPrimary"/>-->
+    <!--</views.DragViewGroup>-->
+
+    <!--<views.DragView-->
+    <!--android:layout_width="300dp"-->
+    <!--android:layout_height="100dp"-->
+    <!--android:background="@color/colorAccent"/>-->
+    <!--<views.ScaleImage-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:src="@mipmap/login"-->
+    <!--android:id="@+id/scaleImage" />-->
+</LinearLayout>
